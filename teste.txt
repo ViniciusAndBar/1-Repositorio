@@ -1,3 +1,4 @@
 Primeiro Teste
 Segundo Teste
+Efetuando uma alteração após ir para uma versão anterior do repositório.
 
